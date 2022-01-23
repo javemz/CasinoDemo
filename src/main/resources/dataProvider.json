@@ -1,0 +1,23 @@
+{
+  "methodRegistration" : "email",
+  "valueMethod" : "pruebajavier2@test.com",
+  "currency" : "USD",
+  "password" : "jav4eT2",
+  "username" : "bart",
+  "name" : "friedman",
+  "surname" : "jack",
+  "middleName" : "jack",
+  "registrationBonus" : "false",
+  "registrationCodeBonus" : "",
+  "receiveNewsAndPromotions" : "true",
+  "birthday" : "2000-05-15",
+  "nickName" : "Prueba11",
+  "address" : "Av Las americas",
+  "country": "Liberia",
+  "city": "Monrovia",
+  "postalCode": "1322221",
+  "gender": "Male",
+  "secretQuestion": "Your favorite actor or actress",
+  "answer": "Will Smith"
+
+}
